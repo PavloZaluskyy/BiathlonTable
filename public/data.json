@@ -1,0 +1,92 @@
+[
+	{
+		"name": "OLSBU ROEISELAND Marte",
+		"rank": 1,
+		"hitting": 4,
+		"speedshoothing": 2.15
+	},
+	{
+		"name": "SOLA Hanna",
+		"rank": 3,
+		"hitting": 5,
+		"speedshoothing": 4.50
+	},
+	{
+		"name": "SIMON Julia",
+		"rank": 4,
+		"hitting": 5,
+		"speedshoothing": 4.91
+	},
+	{
+		"name": "KALKENBERG Emilie Aagheim",
+		"rank": 5,
+		"hitting": 2,
+		"speedshoothing": 6.84
+	},
+	{
+		"name": "ECKHOFF Tiril",
+		"rank": 2,
+		"hitting": 4,
+		"speedshoothing": 1.58
+	},
+	{
+		"name": "PREUSS Franziska",
+		"rank": 6,
+		"hitting": 4,
+		"speedshoothing": 5.14
+	},
+	{
+		"name": "FIALKOVA Ivona",
+		"rank": 7,
+		"hitting": 5,
+		"speedshoothing": 3.8
+	},
+	{
+		"name": "KAISHEVA Uliana",
+		"rank": 8,
+		"hitting": 5,
+		"speedshoothing": 4.51
+	},
+	{
+		"name": "KRUCHINKINA Elena",
+		"rank": 9,
+		"hitting": 5,
+		"speedshoothing": 7.57
+	},
+	{
+		"name": "KUKLINA Larisa",
+		"rank": 10,
+		"hitting": 5,
+		"speedshoothing": 5.41
+	},
+	{
+		"name": "HAECKI Lena",
+		"rank": 11,
+		"hitting": 7,
+		"speedshoothing": 2.4
+	},
+	{
+		"name": "HETTICH Janina",
+		"rank": 12,
+		"hitting": 5,
+		"speedshoothing": 4.82
+	},
+	{
+		"name": "KNOTTEN Karoline Offigstad",
+		"rank": 13,
+		"hitting": 4,
+		"speedshoothing": 9.50
+	},
+	{
+		"name": "ZDOUC Dunja",
+		"rank": 14,
+		"hitting": 5,
+		"speedshoothing": 7.59
+	},
+	{
+		"name": "TODOROVA Milena",
+		"rank": 15,
+		"hitting": 5,
+		"speedshoothing": 2.2
+	}
+]
